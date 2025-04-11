@@ -7,7 +7,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 ---
 ## Modelo E-R
 
-
+![Modelo ER](modelo_er.png)
 ---
 
 ## Archivos sql:
